@@ -10,7 +10,7 @@ Practice using semantically meaningful HTML
 - [x] Career section
 - [x] 2 subheader
 - [x] unordered list
-- [ ] create table of movies
+- [x] create table of movies
 - [ ] link table to BMs namein 1st para
 
 ## Screenshot of finished product
