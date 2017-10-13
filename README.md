@@ -9,7 +9,7 @@ Practice using semantically meaningful HTML
 - [x] Early life section
 - [x] Career section
 - [x] 2 subheader
-- [x] unorderedlist
+- [x] unordered list
 - [ ] create table of movies
 - [ ] link table to BMs namein 1st para
 
