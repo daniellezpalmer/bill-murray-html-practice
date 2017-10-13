@@ -4,9 +4,9 @@
 Practice using semantically meaningful HTML
 
 # TODOS
-- [ ] Title & picture of BM
-- [ ] Section on BMs life
-- [ ] Early life section
+- [x] Title & picture of BM
+- [x] Section on BMs life
+- [x] Early life section
 - [ ] Career section
 - [ ] 2 subheader
 - [ ] create table of movies
