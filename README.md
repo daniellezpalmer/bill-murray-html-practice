@@ -1,15 +1,16 @@
 # Bill Murray HTML Practice
 
-#Purpose
+## Purpose
 Practice using semantically meaningful HTML
 
-# TODOS
+## TODOS
 - [x] Title & picture of BM
 - [x] Section on BMs life
 - [x] Early life section
-- [ ] Career section
-- [ ] 2 subheader
+- [x] Career section
+- [x] 2 subheader
+- [x] unorderedlist
 - [ ] create table of movies
 - [ ] link table to BMs namein 1st para
 
-# Screenshot of finished product
+## Screenshot of finished product
